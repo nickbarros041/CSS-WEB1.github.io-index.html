@@ -1,0 +1,57 @@
+body {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: Oswald;}
+
+    ul{
+        display: flex;
+        justify-content:space-between ;
+        list-style-type: none;
+        align-items: center;
+        padding: 16px;
+
+    }
+
+
+
+header img{
+    width: 150px ;
+    height: 150px ;
+    border-radius: 50%;
+    border: 5px solid green; 
+}
+
+h1{
+    color:green
+}
+
+h2{
+    color: rgb(64, 237, 64);
+}
+footer img {  
+    width:40px ;
+    height: 40px;
+  }
+
+  footer {
+    display: flex;
+    justify-content: left;
+  }
+  
+  footer a {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  footer p{
+    margin-top: 2px;
+    color: green;
+  }
+
+  a{
+     color: white;
+    text-decoration: none;
+
+  }
+
+  
